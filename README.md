@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning python
 
 
-I am currently working on a python project ( soon available on my github page )
+I am currently working on a discord js project ( soon available on my github page )
 
