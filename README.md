@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey ! My name is me 
+Hey ! My name is Nathael
 
 
 ## 🌐 Socials:
